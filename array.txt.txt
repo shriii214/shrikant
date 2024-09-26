@@ -1,0 +1,18 @@
+#include<stdio.h>
+Void main() 
+{
+	int ,arr[10],i;
+	print("Enter the elements into arrays");
+	for (i=0;i<10;i++);
+	{
+		scanf("%d",&arr[i]);
+	}
+	printf("enter values into arrays are |n");
+	for(i=0;i<10:i++);
+	{
+		scanf("%d"/t,arr[i])
+	}
+}
+		
+ 
+ 
